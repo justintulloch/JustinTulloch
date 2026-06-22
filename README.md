@@ -1,48 +1,10 @@
 
 <h1 align="center">Justin Tulloch</h1>
-<p align="center">I build distributed systems and developer platforms that turn telemetry into reliable outcomes.</p>
 
-<p align="center">
-  <a href="https://tulloch.live">tulloch.live</a> ·
-  <a href="mailto:justinltulloch@gmail.com">justinltulloch@gmail.com</a>
-</p>
-
-<p align="center">
-  <img alt="PR acceptance" src="https://img.shields.io/badge/PR%20acceptance-75%25-brightgreen">
-  <img alt="Drop events"   src="https://img.shields.io/badge/Drops-22%25%20down-blue">
-  <img alt="Latency p95"   src="https://img.shields.io/badge/p95-%3C40ms%20@%20500qps-orange">
-  <img alt="MTTR"          src="https://img.shields.io/badge/MTTR-%3C5%20min-informational">
-</p>
+![activity card](./assets/activity-card.svg)
 
 ## Hiring spotlight
 Distributed systems · Test infrastructure · Data platforms · Real time engines
-
-## Top projects
-<table>
-  <tr>
-    <td>
-      <b>Stratosphere-AI</b><br/>
-      LEO-style telemetry to predict link loss in real time.
-      Quantized PyTorch LSTM over gRPC on GPUs.
-    </td>
-    <td>
-      <b>Latency-Resilient Netcode</b><br/>
-      Server authoritative core with rewind and device normalization.
-      Stable 64 Hz for 64+ players.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>J-Jparams Developer Platform</b><br/>
-      Reviewer routing, issue sync, and profiling for faster, cleaner merges.
-      PR acceptance up 75%.
-    </td>
-    <td>
-      <b>split-inference-grpc-demo</b><br/>
-      Inference paths with strict p95 targets and clear traces end to end.
-    </td>
-  </tr>
-</table>
 
 ## Tech I use
 <p>
