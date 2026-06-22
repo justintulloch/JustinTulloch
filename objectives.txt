@@ -1,5 +1,5 @@
 # one objective per line, edited by hand each week
 # lines starting with # are ignored
-Finish EMBER phase 4 chaos injection tests
-The Deterministic Kernel (Rust)
-Replacing loose Python loops with strongly-typed Rust structs
+Validation of AI-Generated Code
+Deterministic Systems Design in Rust(Phase 4)
+Type Safety, Coherence, and Reliability
