@@ -1,5 +1,5 @@
 # one objective per line, edited by hand each week
 # lines starting with # are ignored
 Finish EMBER phase 4 chaos injection tests
-Tailor resume for Cohere application
-Ship BitrateLSTM quantization benchmark writeup
+The Deterministic Kernel (Rust)
+Replacing loose Python loops with strongly-typed Rust structs
